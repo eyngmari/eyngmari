@@ -1,7 +1,7 @@
 ### Olá, eu sou a Mari!
 <img align="right" width="12%" src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif">
 
-- 🛠 Sou Engenheira de Produção.
+- 🛠 Engenheira de Produção.
 - 💕 Apaixonada por Tecnologia.
 - 📚 Estou em busca de projetos para colaborar e aprender, explorando o mundo do front-end.
 - 🎯 Especialista em Lean.
